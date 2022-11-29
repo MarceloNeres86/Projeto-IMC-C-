@@ -1,0 +1,10 @@
+C:\Users\HOME_OFFICE\source\repos\CalculoIMC\CalculoIMC\bin\Debug\CalculoIMC.exe.config
+C:\Users\HOME_OFFICE\source\repos\CalculoIMC\CalculoIMC\bin\Debug\CalculoIMC.exe
+C:\Users\HOME_OFFICE\source\repos\CalculoIMC\CalculoIMC\bin\Debug\CalculoIMC.pdb
+C:\Users\HOME_OFFICE\source\repos\CalculoIMC\CalculoIMC\obj\Debug\PESO_IDEAL.csproj.AssemblyReference.cache
+C:\Users\HOME_OFFICE\source\repos\CalculoIMC\CalculoIMC\obj\Debug\CalculoIMC.Form1.resources
+C:\Users\HOME_OFFICE\source\repos\CalculoIMC\CalculoIMC\obj\Debug\CalculoIMC.Properties.Resources.resources
+C:\Users\HOME_OFFICE\source\repos\CalculoIMC\CalculoIMC\obj\Debug\PESO_IDEAL.csproj.GenerateResource.cache
+C:\Users\HOME_OFFICE\source\repos\CalculoIMC\CalculoIMC\obj\Debug\PESO_IDEAL.csproj.CoreCompileInputs.cache
+C:\Users\HOME_OFFICE\source\repos\CalculoIMC\CalculoIMC\obj\Debug\CalculoIMC.exe
+C:\Users\HOME_OFFICE\source\repos\CalculoIMC\CalculoIMC\obj\Debug\CalculoIMC.pdb
